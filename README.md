@@ -5,13 +5,13 @@ Model and  Specs
 
 Dell Inspiron 5559
 
-Core i5 - 6200U
+     Core i5 - 6200U
 
-Integrated Intel HD 520 Graphics
+     Integrated Intel HD 520 Graphics
 
-Realtek High Definition Audio
+     Realtek High Definition Audio
 
-Intel Bluetooth and WiFi card
+     Intel Bluetooth and WiFi card
 
 Not Working :
     
