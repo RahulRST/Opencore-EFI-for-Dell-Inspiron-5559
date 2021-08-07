@@ -3,6 +3,8 @@ This repo is for downloading the Opencore EFI folder for Dell Inspiron 5559 to r
 
 In this Repo, I will be providing EFI folders for both Monterey and Big Sur along with their Online Installers
 
+For Best Results, use Rufus in Windows to burn the installers to a 4GB Pendrive.
+
 Model and  Specs
 
 Dell Inspiron 5559
