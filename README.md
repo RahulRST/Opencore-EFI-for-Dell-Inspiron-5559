@@ -1,4 +1,6 @@
 # Opencore-EFI-for-Dell-Inspiron-5559
+
+# I no longer have that laptop to update my opencore so if anyone will to contribute can contact me
 This repo is for downloading the Opencore EFI folder for Dell Inspiron 5559 to run Mac OS in ur Dell Laptop
 
 In this Repo, I will be providing EFI folders for both Monterey and Big Sur along with their Online Installers
